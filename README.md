@@ -1,4 +1,4 @@
-## Movie Watchlist Homework
+## Homework
 
 ## Description
 For this homework, students will create a simple movie watchlist program using Python lists. The program will allow users to add movie titles to their watchlist, remove movies they have already watched, check whether a particular movie is already on the list, and see all the movies currently in their watchlist.
