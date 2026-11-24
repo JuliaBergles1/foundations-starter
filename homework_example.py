@@ -1,6 +1,6 @@
-# Shopping List Homework
+# Shopping List example draft
 
-# Create an empty shopping list
+# Create an empty shopping list 
 shopping_list = []
 
 # Ask the user to enter an item
