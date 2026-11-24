@@ -1,13 +1,13 @@
-# Shopping List example draft
+# Movie Watchlist example draft
 
-# Create an empty shopping list 
-shopping_list = []
+# Create an empty movie watchlist
+movie_watchlist = []
 
-# Ask the user to enter an item
-item = input("Enter an item to add to your shopping list: ")
+# Ask the user to enter a movie title
+movie = input("Enter a movie to add to your watchlist: ")
 
-# Add the item to the list
-shopping_list.append(item)
+# Add the movie to the list
+movie_watchlist.append(movie)
 
-# Print the current shopping list
-print("Your shopping list:", shopping_list)
+# Print the current movie watchlist
+print("Your movie watchlist:", movie_watchlist)
